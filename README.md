@@ -7,7 +7,7 @@ This GitHub repository contains code and documentation for a comprehensive analy
 - **Code:** The primary code file is washington_post_analysis.ipynb, which covers a wide range of analyses and visualizations.
 - **Notebook:** The relevant findings from the ipynb file are discussed in the final report.
 - **Data:** The dataset used for this analysis is stored in [2023-10-17-washington-post-police-shootings-export.csv](2023-10-17-washington-post-police-shootings-export.csv).
-- **Report:** A detailed summary of the analysis, insights, and conclusions can be found in Report.pdf
+- **Report:** A detailed summary of the analysis, insights, and conclusions can be found in "Report.pdf" 
 
 ## Key Examinations
 
